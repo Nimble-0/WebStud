@@ -1,0 +1,21 @@
+body{font:14px Verdana,Arial; width:400px; margin:25px auto; background:#fff url(images/bg.gif) repeat-x; color:#091f30;}
+label{display: block; float: left; width: 150px;
+  padding: 0 10px; margin: 18px 0 0; text-align: right;}
+  
+#submit{float:right; margin:0px 110px 0px 0;}
+#footer {
+    position: fixed; /* Фиксированное положение */
+    left: 0; bottom: 0; /* Левый нижний угол */
+    padding: 10px; /* Поля вокруг текста */
+    background: #cfdce7; /* Цвет фона */
+    color: #fff; /* Цвет текста */
+    width: 100%; /* Ширина слоя */
+   }
+#footerR {
+    position: fixed; /* Фиксированное положение */
+    left: 90%; bottom: 0; /* Левый нижний угол */
+    padding: 10px; /* Поля вокруг текста */
+    background: #cfdce7; /* Цвет фона */
+    color: #fff; /* Цвет текста */
+    width: 100%; /* Ширина слоя */
+   }   
